@@ -2,6 +2,6 @@
 
 export const MarvelScreen = () => {
     return (
-        <div>MarvelScreen</div>
+        <h1>MarvelScreen</h1>
     );
 };

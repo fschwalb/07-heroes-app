@@ -3,7 +3,7 @@
 export const DcScreen = () => {
     return (
         <>
-            <div>DcScreen</div>
+            <h1>DcScreen</h1>
         </>
     );
 };

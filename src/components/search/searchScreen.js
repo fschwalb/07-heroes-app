@@ -2,6 +2,6 @@
 
 export const SearchScreen = () => {
     return (
-        <div>SearchScreen</div>
+        <h1>SearchScreen</h1>
     );
 };
